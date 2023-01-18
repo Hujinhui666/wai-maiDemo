@@ -5,3 +5,4 @@
 ##图标库：iconfont-阿里巴巴矢量图标库
 
 #预览地址：
+ https://hujinhui666.github.io/waiInit/
