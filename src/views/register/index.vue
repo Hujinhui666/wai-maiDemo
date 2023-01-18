@@ -37,7 +37,7 @@ export default {
         })
         // 注册
         const onSubmit = (value) => {
-            if (localStorage.getItem('userInfo')) {
+            if (sessionStorage.getItem('userInfo')) {
                 // let userInfo = JSON.parse(localStorage.getItem('userInfo'))
                 // if (userInfo["user"] === value["user"]) {
                 //     showToast("该用户已存在")
